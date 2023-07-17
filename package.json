@@ -1,0 +1,15 @@
+{
+  "name": "value-vs-reference-katas",
+  "version": "1.0.0",
+  "description": "**Northcoders Fundamentals Katas**",
+  "main": "valueVsReference.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
