@@ -1,7 +1,7 @@
 {
   "name": "value-vs-reference-katas",
   "version": "1.0.0",
-  "description": "**Northcoders Fundamentals Katas**",
+  "description": "**Northcoders Fundamentals Value Vs Reference Katas**",
   "main": "valueVsReference.js",
   "scripts": {
     "test": "jest"
